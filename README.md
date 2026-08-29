@@ -51,33 +51,5 @@ this way it can confront and meet many different challenges automatically withou
  - **Executes a buy or sell order if the conditions are met** <br><br>
 *It's also provided with a function that checks whether the data of a given pair was analyzed and prevents processing the same candlestick twice for a given timeframe*
 
-<br>
 
-## Executing the Program 
-**To execute the trading bot, you can download the files and run the 'Forex Trading Bot.py' script or run the program 
-from the Jupyter Notebook file provided. You can find more details on how to run the program on Jupyter inside the notebook
-file. In either case, before executing the program, you will first have to download the MetaTrader5 terminal on your personal PC from [MetaTrader5](https://www.metatrader5.com/en/download), 
-along with the relevant Python libraries, given that this bot must be connected to the MetaTrader5 terminal for it to work. Upon 
-running the program, you will be prompted for three key inputs: your username, password, and your broker's server on MetaTrader5. 
-Once it is put into action, you can track and inspect your market orders on the MetaTrader5 terminal itself. Feel free to try it on 
-demo accounts with virtual money.**
-
-<br>
-
-**You can quickly access the code and execute the program from the link I have provided below. The link will direct you to a Jupyter Notebook, 
-with the code and function files necessary to run the bot. I have provided more details on how to run the program on Jupyter inside the notebook.**
-<br>
-
-***To quickly access the main program and execute it on Jupyter, click on the link below:*** <br>
-https://mybinder.org/v2/gh/Mo-Khalifa96/Forex-Trading-Bot/main?labpath=Forex%20Trading%20Bot%20(Jupyter%20version).ipynb
-
-<br>
-
-## Disclaimer 
-It's important to note once more that the strategy being employed here is not guaranteed to be successful. You're highly advised 
-against using it for trading. A good strategy would require careful and exhaustive backtesting first before putting 
-it into use. It is only meant to showcase what I've learned about algorithmic trading and my ability to utilize Python 
-for developing and implementing trading bots. If you're intending on trying it, use it on a demo account for safety.
-<br>
-<br>
 
